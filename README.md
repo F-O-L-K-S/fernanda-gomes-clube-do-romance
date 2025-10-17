@@ -1,4 +1,4 @@
-# Clube do Romance 🌈 — Versão Júnior (Backend-only)
+# Clube do Romance 🌈 — (Backend-only)
 
 > **Objetivo:** um projeto **backend** simples (em camadas) para praticar **TypeScript, Express, SQL, Docker, Autenticação JWT** e **integração com API externa** — com escopo pensado para **nível júnior**.
 
